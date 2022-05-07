@@ -1,4 +1,4 @@
-package rasi;
+package sruthi;
 
 /**
  * Hello world!
